@@ -19,7 +19,7 @@ The goals / steps of this project are the following:
 
 ### 1. My Pipeline.
 
-My pipeline consisted of 5 steps. I got all the the test images and iterated over them as I applied each transformation.
+My pipeline consisted of the following steps. I got all the the test images and iterated over them as I applied each transformation.
 The first thing I did was apply the Grayscale transform.
 ![alt text][image1]
 
